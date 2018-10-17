@@ -10,3 +10,4 @@ Quick Markdown Overview
 - write value lists with 'n'
 - create **bold number** with **
 - include [links](https://phe.gov.uk) with [] and ()
+- type `code` with backticks
